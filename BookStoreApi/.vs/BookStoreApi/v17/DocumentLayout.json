@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|c:\\users\\luke\\desktop\\school projects\\.net software development\\applications\\bookstoreapi\\models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412EA174-1292-47E0-8697-BEAF5144FEDA}|BookStoreApi.csproj|solutionrelative:models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Properties\\launchSettings.json*",
+              "RelativeToolTip": "Properties\\launchSettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T00:47:56.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\wwwroot\\js\\site.js*",
+              "RelativeToolTip": "wwwroot\\js\\site.js*",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswHwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-24T00:46:24.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\wwwroot\\css\\site.css*",
+              "RelativeToolTip": "wwwroot\\css\\site.css*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T00:45:47.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\wwwroot\\index.html*",
+              "RelativeToolTip": "wwwroot\\index.html*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-24T00:44:07.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswEkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:33:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Services\\BooksService.cs",
+              "RelativeToolTip": "Services\\BooksService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA4wCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:30:35.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:25:49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookStoreDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "Models\\BookStoreDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeToolTip": "Models\\BookStoreDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:24:41.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-24T00:24:09.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Luke\\Desktop\\School Projects\\.Net Software Development\\Applications\\BookStoreApi\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T00:23:50.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
